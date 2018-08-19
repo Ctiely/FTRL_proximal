@@ -69,5 +69,5 @@ endif()
 
 
 set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "c++")
-set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "/usr/local/opt/llvm/lib;/Users/clytie/Documents/openmp/runtime/build/runtime/src;/Users/clytie/Documents/研究生/C++/algorithm/FTRL;/usr/lib;/usr/local/lib")
+set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "/usr/local/opt/llvm/lib;/Users/clytie/Documents/openmp/runtime/build/runtime/src;/Users/clytie/Documents/FTRL;/usr/lib;/usr/local/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "/Library/Frameworks;/System/Library/Frameworks")

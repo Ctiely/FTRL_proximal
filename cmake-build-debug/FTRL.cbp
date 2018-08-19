@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug"/>
+				<Option working_dir="/Users/clytie/Documents/FTRL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug"/>
+				<Option working_dir="/Users/clytie/Documents/FTRL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug"/>
+				<Option working_dir="/Users/clytie/Documents/FTRL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FTRL">
-				<Option output="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/FTRL" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug"/>
+				<Option output="/Users/clytie/Documents/FTRL/cmake-build-debug/FTRL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/clytie/Documents/FTRL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -56,15 +56,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FTRL"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FTRL"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FTRL/fast">
-				<Option output="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/FTRL" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug"/>
+				<Option output="/Users/clytie/Documents/FTRL/cmake-build-debug/FTRL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/clytie/Documents/FTRL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -81,35 +81,35 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FTRL/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FTRL/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/clytie/Documents/FTRL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/main.cpp">
+		<Unit filename="/Users/clytie/Documents/FTRL/main.cpp">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/constants.h">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/constants.h">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/dataset.cpp">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/dataset.cpp">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/dataset.h">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/dataset.h">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/model.cpp">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/model.cpp">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/model.h">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/model.h">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/utils.h">
+		<Unit filename="/Users/clytie/Documents/FTRL/src/utils.h">
 			<Option target="FTRL"/>
 		</Unit>
-		<Unit filename="/Users/clytie/Documents/研究生/C++/algorithm/FTRL/CMakeLists.txt">
+		<Unit filename="/Users/clytie/Documents/FTRL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

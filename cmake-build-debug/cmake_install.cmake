@@ -1,4 +1,4 @@
-# Install script for directory: /Users/clytie/Documents/研究生/C++/algorithm/FTRL
+# Install script for directory: /Users/clytie/Documents/FTRL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/clytie/Documents/FTRL/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

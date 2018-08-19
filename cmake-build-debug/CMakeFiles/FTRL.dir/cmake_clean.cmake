@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FTRL.dir/main.cpp.o"
-  "CMakeFiles/FTRL.dir/src/model.cpp.o"
   "CMakeFiles/FTRL.dir/src/dataset.cpp.o"
+  "CMakeFiles/FTRL.dir/src/model.cpp.o"
+  "CMakeFiles/FTRL.dir/main.cpp.o"
   "FTRL.pdb"
   "FTRL"
 )

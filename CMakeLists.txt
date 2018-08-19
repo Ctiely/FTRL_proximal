@@ -3,4 +3,11 @@ project(FTRL)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(FTRL main.cpp src/model.cpp src/model.h src/utils.h src/dataset.cpp src/dataset.h src/constants.h)
+add_executable(FTRL
+        src/constants.h
+        src/dataset.cpp
+        src/dataset.h
+        src/model.cpp
+        src/model.h
+        src/utils.h
+        main.cpp)

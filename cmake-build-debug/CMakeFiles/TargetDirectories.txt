@@ -1,3 +1,3 @@
-/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir
+/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir

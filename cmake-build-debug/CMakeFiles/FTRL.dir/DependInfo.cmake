@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/main.cpp" "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/main.cpp.o"
-  "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/dataset.cpp" "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/src/dataset.cpp.o"
-  "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/src/model.cpp" "/Users/clytie/Documents/研究生/C++/algorithm/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/src/model.cpp.o"
+  "/Users/clytie/Documents/FTRL/main.cpp" "/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/main.cpp.o"
+  "/Users/clytie/Documents/FTRL/src/dataset.cpp" "/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/src/dataset.cpp.o"
+  "/Users/clytie/Documents/FTRL/src/model.cpp" "/Users/clytie/Documents/FTRL/cmake-build-debug/CMakeFiles/FTRL.dir/src/model.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
