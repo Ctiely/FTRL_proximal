@@ -93,7 +93,7 @@ void model::fit(dataset * pxt) {
 int model::fit(string data_file) {
     FILE * fin = fopen(data_file.c_str(), "r");
     if (!fin) {
-        printf("Cannot open file %s to write!\n", data_file.c_str());
+        printf("Cannot open file %s to read!\n", data_file.c_str());
         return 1;
     }
 
