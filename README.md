@@ -10,6 +10,15 @@ git clone https://github.com/Ctiely/FTRL_proximal
 cd FTRL_proximal/python
 make clean
 make
+mv FTRL.so ../
+```
+
+or
+
+```
+git clone https://github.com/Ctiely/FTRL_proximal
+cd FTRL_proximal/python
+sh build.sh
 ```
 In Mac OSX, FTRL.so will appear in the directory FTRL_proximal.
 Copy this .so file into your work path, and just import FTRL.
