@@ -1,0 +1,2 @@
+make
+mv FTRL.so ../
