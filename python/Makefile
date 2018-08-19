@@ -2,4 +2,4 @@ all:
 	python setup.py build_ext -if
 
 clean:
-	-rm -r FTRL.{cpp,so} build
+	-rm -r FTRL.cpp build
