@@ -23,7 +23,7 @@ void dataset::readLine() {
     if (cdata[begin] == '-') {
         label = -1;
     } else {
-        label =  atoi(cdata);
+        label = atoi(cdata);
         //label = (label < 0) ? 0 : label;
     }
     ++begin;
